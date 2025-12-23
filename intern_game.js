@@ -11,7 +11,7 @@
 // Example entry
 const players = [
   {
-    name: "Demo Intern",
+    name: "Demo Intern yolo",
     favoriteCommand: "git status",
     funFact: "GitHub is not the same as Git"
   },
